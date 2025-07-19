@@ -39,7 +39,7 @@
     "miniget": "^4.2.3",
     "sax": "^1.4.1",
     "tough-cookie": "^5.1.2",
-    "undici": "latest"
+    "undici": "github:Victiniiiii/undici-fix"
   },
   "devDependencies": {
     "@types/node": "^22.15.2",
